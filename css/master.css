@@ -102,6 +102,10 @@ a:hover {
   padding: 10px;
 }
 
+.phone-number {
+  white-space: nowrap;
+}
+
 /* hours */
 
 .hours-container {
