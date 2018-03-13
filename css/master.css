@@ -101,3 +101,29 @@ a:hover {
   color: white;
   padding: 10px;
 }
+
+/* hours */
+
+.hours-container {
+  top: 5%;
+}
+
+.hours-table {
+  margin: auto;
+  padding: 10px;
+  color: white;
+  font-size: 1.1rem;
+}
+
+.map {
+  margin: auto;
+}
+
+.map p {
+  text-align: center;
+}
+
+iframe {
+  height: 20vh;
+  width: 90vw;
+}
