@@ -21,6 +21,9 @@
     We are located at 4963 Stahl Rd. Ste 100, San Antonio, Tx 78217.">
 
     <link rel="stylesheet" href="../css/master.css">
+    <script type="text/javascript" src="../js/menuItems.js">
+
+    </script>
   </head>
 
   <body>
@@ -41,8 +44,38 @@
       <div class="opaque-background"></div>
     </div>
 
-    <div class="" style="font-size:2rem">
-      Coming Soon!
+    <div class="menu-container container">
+      <div class="menu" id="menu">
+
+      </div>
+      <div class="opaque-background white"></div>
     </div>
+
+    <script type="text/javascript">
+      window.onload = function () {
+        const menu = document.getElementById('menu');
+
+        const menuItems = window.menuItems;
+        const sections = Object.keys(menuItems);
+
+        sections.forEach(section => {
+          const h1 = document.createElement('h1');
+          // TODO: make this only capitalize first letter of word
+          h1.innerText = section.split('_').map(function (word) { return word.toUpperCase() }).join(' ');
+          h1.classList.add('menu-heading');
+          menu.appendChild(h1);
+
+          menuItems[section].forEach(function (item) {
+            const name = Object.keys(item)[0];
+            const price = item[name];
+
+            const div = document.createElement('div');
+            div.innerText = name + ' ' + price;
+            div.classList.add('menu-item');
+            menu.appendChild(div);
+          });
+        });
+      }
+    </script>
   </body>
 </html>

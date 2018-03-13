@@ -13,7 +13,6 @@ html {
    background:url("../assets/5O7A0986_resize.jpg") center center no-repeat;
 }
 
-
 body {
   width: 100vw;
   max-width: 900px;
@@ -106,6 +105,8 @@ a:hover {
 
 .phone-number {
   white-space: nowrap;
+  color: white;
+  text-decoration: underline;
 }
 
 /* hours */
@@ -132,4 +133,33 @@ a:hover {
 iframe {
   height: 20vh;
   width: 90%;
+}
+
+/* menu */
+
+.menu-container {
+  top: 0;
+  height: 80vh;
+  overflow: hidden;
+}
+
+.menu {
+  overflow-y: scroll;
+  max-height: 100%;
+  padding: 20px;
+}
+
+.menu-heading {
+  font-size: 1.6rem;
+  margin-bottom: 5px;
+  margin-top: 10px;
+}
+
+.menu-item {
+  font-size: 1.2rem;
+}
+
+.opaque-background.white {
+  background: white;
+  opacity: .6;
 }
