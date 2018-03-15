@@ -70,8 +70,16 @@
             const price = item[name];
 
             const div = document.createElement('div');
-            div.innerText = name + ' ' + price;
             div.classList.add('menu-item');
+            const nameDiv = document.createElement('div');
+            nameDiv.classList.add('menu-item-name');
+            nameDiv.innerText = name;
+            const priceDiv = document.createElement('div');
+            priceDiv.classList.add('menu-item-price');
+            priceDiv.innerText = price;
+
+            div.appendChild(nameDiv);
+            div.appendChild(priceDiv);
             menu.appendChild(div);
           });
         });
