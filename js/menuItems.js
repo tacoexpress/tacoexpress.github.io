@@ -1,233 +1,233 @@
 window.menuItems = {
   "breakfast_tacos": [
   	{
-  		"egg": "1.25"
+  		"egg": "1.35"
   	},
   	{
-  		"bean": "1.15"
+  		"bean": "1.25"
   	},
   	{
-  		"bean & cheese": "1.35"
+  		"bean & cheese": "1.45"
   	},
   	{
-  		"bacon & egg": "1.65"
+  		"bacon & egg": "1.75"
   	},
   	{
-  		"chorizo & egg": "1.65"
+  		"chorizo & egg": "1.75"
   	},
   	{
-  		"sausage & egg": "1.65"
+  		"sausage & egg": "1.75"
   	},
   	{
-  		"potato & egg": "1.65"
+  		"potato & egg": "1.75"
   	},
   	{
-  		"papa ranchera": "1.65"
+  		"papa ranchera": "1.75"
   	},
   	{
-  		"papa & chorizo": "2.19"
+  		"papa & chorizo": "2.29"
   	},
   	{
-  		"rice & beans": "1.65"
+  		"rice & beans": "1.75"
   	},
   	{
-  		"brick layers": "2.59"
+  		"brick layers": "2.69"
   	},
   	{
-  		"machacado": "2.59"
+  		"machacado": "2.69"
   	},
   	{
-  		"chicharron": "2.59"
+  		"chicharron": "2.69"
   	}
   ],
   "lunch_tacos": [
   	{
-  		"beef fajita": "2.75"
+  		"beef fajita": "2.85"
   	},
   	{
-  		"chicken fajita": "2.65"
+  		"chicken fajita": "2.75"
   	},
   	{
-  		"beef fajita deluxe": "3.45"
+  		"beef fajita deluxe": "3.55"
   	},
   	{
-  		"chicken fajita deluxe": "2.99"
+  		"chicken fajita deluxe": "3.09"
   	},
   	{
-  		"carne guisada": "2.65"
+  		"carne guisada": "2.75"
   	},
   	{
-  		"picadillo": "2.25"
+  		"picadillo": "2.35"
   	},
   	{
-  		"barbacoa": "2.75"
+  		"barbacoa": "2.85"
   	},
   	{
-  		"carne asada": "2.75"
+  		"carne asada": "2.85"
   	},
   	{
-  		"beef brisket": "2.75"
+  		"beef brisket": "2.85"
   	},
   	{
-  		"crispy beef taco": "1.99"
+  		"crispy beef taco": "2.09"
   	},
   	{
-  		"puffy beef taco": "1.99"
+  		"puffy beef taco": "2.09"
   	}
   ],
   "burritos": [
   	{
-  		"bean & cheese": "4.99"
+  		"bean & cheese": "5.09"
   	},
   	{
-  		"supreme": "5.99"
+  		"supreme": "6.09"
   	},
   	{
-  		"beef & bean": "5.45"
+  		"beef & bean": "5.55"
   	},
   	{
-  		"carne asada": "7.29"
+  		"carne asada": "7.39"
   	},
   	{
-  		"chicken fajita": "7.29"
+  		"chicken fajita": "7.39"
   	},
   	{
-  		"beef fajita": "7.29"
+  		"beef fajita": "7.39"
   	},
   	{
-  		"beef brisket": "7.29"
+  		"beef brisket": "7.39"
   	}
   ],
   "quesadillas": [
   	{
-  		"cheese": "6.29"
+  		"cheese": "6.39"
   	},
   	{
-  		"chicken fajita": "7.59"
+  		"chicken fajita": "7.69"
   	},
   	{
-  		"beef fajita": "8.15"
+  		"beef fajita": "8.25"
   	}
   ],
   "plates": [
   	{
-  		"combination ": "8.65"
+  		"combination ": "9.15"
   	},
   	{
-  		"carne guisada": "8.85"
+  		"carne guisada": "9.35"
   	},
   	{
-  		"beef brisket": "8.85"
+  		"beef brisket": "9.35"
   	},
   	{
-  		"cheese enchiladas": "6.95"
+  		"cheese enchiladas": "7.45"
   	},
   	{
-  		"crispy tacos": "6.95"
+  		"crispy tacos": "7.45"
   	},
   	{
-  		"carne guisada": "8.65"
+  		"carne guisada": "9.15"
   	},
   	{
-  		"chicken fajita": "8.65"
+  		"chicken fajita": "9.15"
   	},
   	{
-  		"beef enchilada": "7.25"
+  		"beef enchilada": "7.75"
   	},
   	{
-  		"chicken flautas": "8.35"
+  		"chicken flautas": "8.85"
   	}
   ],
   "chalupas": [
   	{
-  		"bean & cheese": "2.25"
+  		"bean & cheese": "2.35"
   	},
   	{
-  		"chalupas supreme": "3.25"
+  		"chalupas supreme": "3.35"
   	}
   ],
   "nachos": [
   	{
-  		"bean & cheese": "3.95"
+  		"bean & cheese": "4.05"
   	},
   	{
-  		"beef fajita": "7.95"
+  		"beef fajita": "8.05"
   	},
   	{
-  		"chicken fajita": "7.95"
+  		"chicken fajita": "8.05"
   	},
   	{
-  		"nacho grande": "6.75"
+  		"nacho grande": "6.85"
   	}
   ],
   "side_orders": [
   	{
-  		"rice": "1.89"
+  		"rice": "1.99"
   	},
   	{
-  		"beans": "1.89"
+  		"beans": "1.99"
   	},
   	{
-  		"tortillas": "0.3"
+  		"tortillas": "0.40"
   	},
   	{
-  		"sour cream": "0.6"
+  		"sour cream": "0.70"
   	},
   	{
-  		"pico de gallo": "1.49"
+  		"pico de gallo": "1.59"
   	},
   	{
-  		"chips": "1.49"
+  		"chips": "1.59"
   	},
   	{
-  		"guacamole": "0.99"
+  		"guacamole": "1.09"
   	}
   ],
   "family_packs": [
   	{
-  		"1 lb chicken fajita": "17.95"
+  		"1 lb chicken fajita": "18.45"
   	},
   	{
-  		"1 lb beef fajita": "18.99"
+  		"1 lb beef fajita": "19.49"
   	},
   	{
-  		"1/2 pound chicken fajita": "10.95"
+  		"1/2 pound chicken fajita": "11.45"
   	},
   	{
-  		"1/2 pound beef fajita": "10.95"
+  		"1/2 pound beef fajita": "11.45"
   	},
   	{
-  		"cheese enchilada pack": "15.99"
+  		"cheese enchilada pack": "16.49"
   	},
   	{
-  		"beef enchilada pack": "16.95"
+  		"beef enchilada pack": "17.55"
   	}
   ],
   "salads": [
     {
-      "taco salad": "7.5"
+      "taco salad": "8.00"
     },
     {
-      "chicken fajita": "8.75"
+      "chicken fajita": "9.25"
     },
     {
-      "beef fajita": "8.99"
+      "beef fajita": "9.49"
     },
   ],
   "hamburgers": [
     {
-       'hamburger': '3.99'
+       'hamburger': '4.49'
      },
     {
-       'hamburger combo': '6.5'
+       'hamburger combo': '7.00'
      },
   ],
   "barbacoa": [
     {
-       '1/2 lb barbacoa': '8.75'
+       '1/2 lb barbacoa': '9.25'
      },
     {
-       '1 lb barbacoa': '11.99'
+       '1 lb barbacoa': '12.49'
      },
   ]
 };
