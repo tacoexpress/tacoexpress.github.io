@@ -143,94 +143,94 @@ window.menuItems = {
   ],
   "chalupas": [
   	{
-  		"bean & cheese": "2.35"
+  		"bean & cheese": "2.95"
   	},
   	{
-  		"chalupas supreme": "3.35"
+  		"chalupas supreme": "4.75"
   	}
   ],
   "nachos": [
   	{
-  		"bean & cheese": "4.05"
+  		"bean & cheese": "7.95"
   	},
   	{
-  		"beef fajita": "8.05"
+  		"beef fajita": "12.95"
   	},
   	{
-  		"chicken fajita": "8.05"
+  		"chicken fajita": "12.95"
   	},
   	{
-  		"nacho grande": "6.85"
+  		"nacho grande": "12.95"
   	}
   ],
   "side_orders": [
   	{
-  		"rice": "1.99"
+  		"rice": "3.59"
   	},
   	{
-  		"beans": "1.99"
+  		"beans": "3.59"
   	},
   	{
-  		"tortillas": "0.40"
+  		"tortillas": "0.35"
   	},
   	{
-  		"sour cream": "0.70"
+  		"sour cream": "0.60"
   	},
   	{
-  		"pico de gallo": "1.59"
+  		"pico de gallo": "1.49"
   	},
   	{
-  		"chips": "1.59"
+  		"chips & salsa": "4.50"
   	},
   	{
-  		"guacamole": "1.09"
+  		"6 oz guacamole": "4.99"
   	}
   ],
   "family_packs": [
   	{
-  		"1 lb chicken fajita": "18.45"
+  		"1 lb chicken fajita": "18.95"
   	},
   	{
-  		"1 lb beef fajita": "19.49"
+  		"1 lb beef fajita": "22.99"
   	},
   	{
-  		"1/2 pound chicken fajita": "11.45"
+  		"1/2 pound chicken fajita": "11.95"
   	},
   	{
-  		"1/2 pound beef fajita": "11.45"
+  		"1/2 pound beef fajita": "11.95"
   	},
   	{
-  		"cheese enchilada pack": "16.49"
+  		"cheese enchilada pack": "18.99"
   	},
   	{
-  		"beef enchilada pack": "17.55"
+  		"beef enchilada pack": "19.99"
   	}
   ],
   "salads": [
     {
-      "taco salad": "8.00"
+      "taco salad": "9.50"
     },
     {
-      "chicken fajita": "9.25"
+      "chicken fajita": "11.45"
     },
     {
-      "beef fajita": "9.49"
+      "beef fajita": "12.99"
     },
   ],
   "hamburgers": [
     {
-       'hamburger': '4.49'
+       'hamburger': '6.50'
      },
     {
-       'hamburger combo': '7.00'
+       'hamburger combo': '9.99'
      },
   ],
   "barbacoa": [
     {
-       '1/2 lb barbacoa': '9.25'
+       '1/2 lb barbacoa': '10.50'
      },
     {
-       '1 lb barbacoa': '12.49'
+       '1 lb barbacoa': '19.99'
      },
   ]
 };
