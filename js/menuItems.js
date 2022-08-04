@@ -42,100 +42,103 @@ window.menuItems = {
   ],
   "lunch_tacos": [
   	{
-  		"beef fajita": "2.85"
+  		"beef fajita": "4.70"
   	},
   	{
-  		"chicken fajita": "2.75"
+  		"chicken fajita": "3.75"
   	},
   	{
-  		"beef fajita deluxe": "3.55"
+  		"beef fajita deluxe": "5.90"
   	},
   	{
-  		"chicken fajita deluxe": "3.09"
+  		"chicken fajita deluxe": "5.90"
   	},
   	{
-  		"carne guisada": "2.75"
+  		"carne guisada": "4.29"
   	},
   	{
-  		"picadillo": "2.35"
+  		"picadillo": "3.65"
   	},
   	{
-  		"barbacoa": "2.85"
+  		"barbacoa": "3.65"
   	},
   	{
-  		"carne asada": "2.85"
+  		"carne asada": "4.29"
   	},
   	{
-  		"beef brisket": "2.85"
+  		"beef brisket": "4.50"
   	},
   	{
-  		"crispy beef taco": "2.09"
+  		"crispy beef taco": "3.09"
   	},
   	{
-  		"puffy beef taco": "2.09"
+  		"puffy beef taco": "3.09"
   	}
   ],
   "burritos": [
   	{
-  		"bean & cheese": "5.09"
+  		"bean & cheese": "8.99"
   	},
   	{
-  		"supreme": "6.09"
+  		"supreme": "10.99"
   	},
   	{
-  		"beef & bean": "5.55"
+  		"beef & bean": "9.45"
   	},
   	{
-  		"carne asada": "7.39"
+  		"carne asada": "11.75"
   	},
   	{
-  		"chicken fajita": "7.39"
+  		"chicken fajita": "11.75"
   	},
   	{
-  		"beef fajita": "7.39"
+  		"beef fajita": "11.75"
   	},
   	{
-  		"beef brisket": "7.39"
+  		"beef brisket": "11.75"
   	}
   ],
   "quesadillas": [
   	{
-  		"cheese": "6.39"
+  		"cheese": "7.99"
   	},
   	{
-  		"chicken fajita": "7.69"
+  		"chicken fajita": "10.59"
   	},
   	{
-  		"beef fajita": "8.25"
+  		"beef fajita": "11.59"
   	}
   ],
   "plates": [
   	{
-  		"combination ": "9.15"
+  		"combination ": "11.95"
   	},
   	{
-  		"carne guisada": "9.35"
+  		"carne guisada": "11.99"
   	},
   	{
-  		"beef brisket": "9.35"
+  		"beef brisket": "11.99"
   	},
   	{
-  		"cheese enchiladas": "7.45"
+  		"cheese enchiladas": "10.39"
   	},
   	{
-  		"crispy tacos": "7.45"
+  		"crispy tacos": "9.99"
   	},
   	{
-  		"carne guisada": "9.15"
+  		"carne guisada": "11.99"
   	},
   	{
-  		"chicken fajita": "9.15"
+  		"chicken fajita": "12.99"
+  	},
+    {
+      "beef fajita": "15.95"
+    },
+  	{
+  		"beef enchilada": "11.99"
   	},
   	{
-  		"beef enchilada": "7.75"
-  	},
-  	{
-  		"chicken flautas": "8.85"
+  		"chicken flautas": "11.50"
   	}
   ],
   "chalupas": [
