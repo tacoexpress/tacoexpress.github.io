@@ -1,43 +1,43 @@
 window.menuItems = {
   "breakfast_tacos": [
   	{
-  		"egg": "1.35"
+  		"egg": "1.95"
   	},
   	{
-  		"bean": "1.25"
+  		"bean": "1.65"
   	},
   	{
-  		"bean & cheese": "1.45"
+  		"bean & cheese": "1.75"
   	},
   	{
-  		"bacon & egg": "1.75"
+  		"bacon & egg": "2.45"
   	},
   	{
-  		"chorizo & egg": "1.75"
+  		"chorizo & egg": "2.05"
   	},
   	{
-  		"sausage & egg": "1.75"
+  		"sausage & egg": "2.05"
   	},
   	{
-  		"potato & egg": "1.75"
+  		"potato & egg": "2.05"
   	},
   	{
-  		"papa ranchera": "1.75"
+  		"papa ranchera": "2.05"
   	},
   	{
-  		"papa & chorizo": "2.29"
+  		"papa & chorizo": "2.89"
   	},
   	{
-  		"rice & beans": "1.75"
+  		"rice & beans": "2.05"
   	},
   	{
-  		"brick layers": "2.69"
+  		"brick layers": "3.25"
   	},
   	{
-  		"machacado": "2.69"
+  		"machacado": "3.79"
   	},
   	{
-  		"chicharron": "2.69"
+  		"chicharron": "2.99"
   	}
   ],
   "lunch_tacos": [
