@@ -192,6 +192,7 @@ iframe {
   text-align: center;
 }
 
-.uber-eats-link a:visited {
+.uber-eats-link a:visited,
+.uber-eats-link a:link {
   color: #06c167;
 }
