@@ -178,3 +178,12 @@ iframe {
   background: white;
   opacity: .6;
 }
+
+.uber-eats-link {
+  height: 118px;
+  color: #06c167;
+  background: black;
+  display: block;
+  width: 268px;
+  border-radius: 25px;
+}
