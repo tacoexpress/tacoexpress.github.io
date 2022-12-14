@@ -183,7 +183,15 @@ iframe {
   height: 118px;
   color: #06c167;
   background: black;
-  display: block;
+  display: flex;
   width: 268px;
   border-radius: 25px;
+  justify-content: center;
+  align-items: center;
+  font-size: 21px;
+  text-align: center;
+}
+
+.uber-eats-link a:visited {
+  color: #06c167;
 }
